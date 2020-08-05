@@ -1,13 +1,13 @@
 ## Airbox Task Manager - Mock API
 
-This project serves mock API endpoints for the frontend development.
+This project serves a mock API for the frontend development of Airbox Task Manager.
 
 ## Installation
 
 1. Clone project
 
 ```
-git clone https://github.com/keshav-talluri/airbox-task-manager-mock-api.git
+git clone https://github.com/keshav-talluri/airbox-task-manager-mock-api
 ```
 
 2. cd into folder
