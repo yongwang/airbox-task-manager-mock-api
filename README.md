@@ -2,7 +2,7 @@
 
 This project serves a mock API for the frontend development of Airbox Task Manager.
 
-## Hosted on AWS
+## AWS location
 
 This project is hosted on AWS at: http://52.56.105.87:8001/
 
